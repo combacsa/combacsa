@@ -1,4 +1,6 @@
-### Hi there 👋 I'm a NLP-addicted software engineer who learns Korean / English / Japanese with various NLP tasks, whose hobby is politics. 
+### Hi there 👋 I'm a NLP-addicted software engineer who learns Korean / English / Japanese with various NLP tasks, whose hobby is politics.
+
+* [한국어 버전](한국어 버전.MD)
 
 <!--
 **combacsa/combacsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
